@@ -18,9 +18,6 @@ To read the given data and perform the univariate analysis with different types 
 
 ## PROGRAM:
 
-### Developed by:chadalawada jaswanth
-### Reference number:212221040030
-
 ### diabetes.csv
 ```
 import pandas as pd
