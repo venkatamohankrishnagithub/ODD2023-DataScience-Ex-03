@@ -1,6 +1,5 @@
 # ODD2023-DataScience-Ex-03
 
-# ODD2023-DataScience-Ex-03
 
 ## AIM:
 To read the given data and perform the univariate analysis with different types of plots.
