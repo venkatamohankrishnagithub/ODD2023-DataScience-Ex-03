@@ -19,7 +19,7 @@ To read the given data and perform the univariate analysis with different types 
 ## PROGRAM:
 
 ### diabetes.csv
-```
+```python
 import pandas as pd
 df=pd.read_csv("/content/diabetes.csv")
 df
@@ -40,7 +40,7 @@ sns.boxplot(x='Insulin',data=df)
 sns.boxplot(x='SkinThickness',data=df)
 ```
 ### employeesal.csv
-```
+```python
 import pandas as pd
 df=pd.read_csv("/content/employeesal.csv")
 df
@@ -61,7 +61,7 @@ sns.boxplot(x='Salary',data=df)
 sns.boxplot(x='Experience_Years',data=df)
 ```
 ### SuperStore.csv
-```
+```python
 import pandas as pd
 df=pd.read_csv("/content/SuperStore.csv")
 df
